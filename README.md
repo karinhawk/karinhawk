@@ -1,4 +1,4 @@
-## 👋 Hey, I’m @karinhawk (Karin Hawksworth), SRE
+## 👋 Hey, I’m Karin Hawksworth, SRE
 
 
 ###  📫 My email: karin.hawksworth@gmail.com
